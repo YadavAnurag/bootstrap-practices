@@ -1,0 +1,20 @@
+.con{
+  background-color: #f39c12;
+  height: 100vh;
+
+}
+.orange{
+  background-color: #9b59b6;
+}
+.red{
+  background-color: #3498db;
+}
+
+.green{
+  background-color: #27ae60;
+}
+
+.rowHeight{
+  background-color: #000;
+  height: 200px;
+}
